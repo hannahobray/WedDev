@@ -1,0 +1,22 @@
+
+header{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+body{
+    background-color: peru;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+footer{
+    height: 100px; 
+    background-color: rgb(238, 226, 226);
+    text-align: center;
+    text-decoration-color: steelblue;
+}

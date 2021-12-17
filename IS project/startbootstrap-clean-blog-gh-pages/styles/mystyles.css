@@ -1,0 +1,21 @@
+
+
+h1{
+    color:rgb(196, 177, 95);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 350%;
+    text-align: center;
+}
+
+
+body{
+    background-image: url("../images/nina-lee-pHpymaRIyQs-unsplash.jpg");
+    color: rgb(230, 225, 198);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+footer{
+    font-style: italic;
+    text-decoration: rgb(99, 31, 31);
+
+}
